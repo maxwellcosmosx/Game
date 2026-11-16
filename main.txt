@@ -1,0 +1,27 @@
+Game
+			-- Maxwell Lee
+
+Release 01:
+1. cheat-engine_6.2.exe
+2. cheat-engine_6.4.exe
+3. cheat-engine_6.7.exe
+4. cheat-engine_6.8.3.exe
+5. cheat-engine_7.0.exe
+6. fiddler-web-debugger_2.6.exe
+
+Release 02:
+1. Mesen.exe		# FC/NES,SFC/SNES,GB,GBC,GBA
+2. project64.exe	# N64
+3. dolphin.7z		# GameCube,Wii
+4. melonds.exe		# NDS
+5. azahar.exe		# 3DS
+6. gba_bios.bin
+7. disksys.rom
+
+Release 03:
+
+Release 04:
+
+Release 05:
+
+Release 06:
