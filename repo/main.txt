@@ -1,0 +1,50 @@
+Release Repo
+			-- Maxwell Lee
+
+Release 01:
+1. cheat-engine_6.2.exe
+2. cheat-engine_6.4.exe
+3. cheat-engine_6.7.exe
+4. cheat-engine_6.8.3.exe
+5. cheat-engine_7.0.exe
+6. fiddler-web-debugger_2.6.exe
+
+Release 02:
+1. Mesen.exe		# FC/NES,SFC/SNES,GB,GBC,GBA
+2. project64.exe	# N64
+3. melonds.exe		# NDS
+4. dolphin.7z		# GameCube,Wii
+5. azahar.exe		# 3DS
+6. disksys.rom		# BIOS for FC/NES
+7. gba_bios.bin		# BIOS for GBA
+
+
+Release 03:
+1. The Legend of Zelda - The Hyrule Fantasy			# 1986 FC/NES		Repo
+2. The Legend of Zelda - The Adventure of Link			# 1987 FC/NES		Repo
+3. The Legend of Zelda - A Link to the Past			# 1991 SFC/SNES		Repo
+4. The Legend of Zelda - Links Awakening			# 1993 GB		Repo
+5. The Legend of Zelda - Links Awakening DX			# 1998 GBC		Repo
+6. The Legend of Zelda - Ocarina of Time			# 1998 N64		Repo
+7. The Legend of Zelda - Majoras Mask				# 2000 N64		Repo
+8. The Legend of Zelda - Oracle of Seasons			# 2001 GBC		Repo
+9. The Legend of Zelda - Oracle of Ages				# 2001 GBC		Repo
+10. The Legend of Zelda - Four Swords				# 2002 GBA		Repo
+11. The Legend of Zelda - The Wind Waker			# 2002 GameCube		Romsfun
+12. The Legend of Zelda - Four Swords Adventures		# 2004 GameCube		Romsfun
+13. The Legend of Zelda - The Minish Cap			# 2004 GBA		Repo
+14. The Legend of Zelda - Twilight Princess			# 2006 GameCube		Romsfun
+15. The Legend of Zelda - Phantom Hourglass			# 2007 NDS		Repo
+16. The Legend of Zelda - Spirit Tracks				# 2009 NDS		Repo
+17. The Legend of Zelda - Skyward Sword				# 2011 Wii		Romsfun
+18. The Legend of Zelda - A Link Between Worlds			# 2013 3DS		Romsfun
+19. The Legend of Zelda - Tri Force Heroes			# 2015 3DS		Romsfun
+
+Release 04:
+1. Pokemon Red/Green/Blue
+2. Pokemon Gold/Silver/Crystal
+3. Pokemon Ruby/Sapphire/Emerald
+4. Pokemon Diamond/Pearl/Platinum
+5. Pokemon Black/White/Black2/White2
+6. Pokemon X/Y
+7. Pokemon Sun/Moon/Ultra Sun/ Ultra Moon
